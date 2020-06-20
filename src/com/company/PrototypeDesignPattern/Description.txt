@@ -1,0 +1,4 @@
+Sistem içinde kullanılan bazı nesnelerin oluşturulmaları, değişik kaynakları kullandıklarından
+dolayı zaman alıcı olabilir. Bu gibi nesneler new operatörü ile yeniden oluşturulmak yerine,
+Prototype design pattern kullanılarak, mevcut bir nesneden klonlanabilirler. Bu şekilde oluşan
+nesne bir prototiptir ve set metodları kullanılarak istenilen özelliklere göre yapılandırılabilir.
