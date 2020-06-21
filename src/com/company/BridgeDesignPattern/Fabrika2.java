@@ -2,10 +2,10 @@ package com.company.BridgeDesignPattern;
 
 public class Fabrika2 {
     public void produceKursunKalem(){
-        System.out.println("Tükenmez Kalem üretildi");
+        System.out.println("Kursun Kalem üretildi");
     }
 
     public void produceMuzikDefter(){
-        System.out.println("Kareli Defter üretildi");
+        System.out.println("Müzik Defter üretildi");
     }
 }
