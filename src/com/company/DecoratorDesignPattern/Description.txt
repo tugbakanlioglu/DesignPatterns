@@ -1,0 +1,3 @@
+Mevcut nesnelere sınıf yapıları değiştirilmeden yeni özelliklerin eklemesi gerektiği durumlarda kullanılır.
+Sınıflara daha sonra kullanımdan kaldırılmak üzere yeni metot ve fonksiyonların eklemesi
+gerektiği durumlarda kullanılır.
