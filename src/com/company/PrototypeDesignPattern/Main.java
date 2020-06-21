@@ -1,5 +1,9 @@
 package com.company.PrototypeDesignPattern;
 
+import java.sql.Array;
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) throws CloneNotSupportedException {
         final Address address = new Address("Atatürk Sokak","12","Anıttepe","Ankara");
@@ -18,8 +22,6 @@ public class Main {
         FirmaAddress firmaAddress1 = (FirmaAddress) firmaAddress.clone();
         firmaAddress1.setSehir("İstanbul");
         firmaAddress1.printAddress();
-
-
 
 
     }
