@@ -1,0 +1,6 @@
+Oluşturulması zaman alıcı ve sistem kaynaklarını zorlayan nesnelere proxy olmak için Virtual
+Proxy design pattern kullanılır.
+Bir nesneyi ve metotlarını dışardan erişimlere karşı korumak için Protection Proxy design pattern
+kullanılır.
+Başka bir sunucuda bulunan servislere erişimi kullanıcı için transparen hale getirmek için
+Remote Proxy design pattern kullanılır.
