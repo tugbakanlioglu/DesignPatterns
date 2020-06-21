@@ -1,0 +1,5 @@
+Bridge design pattern, modelleme esnasında oluşan soyut oluşumlar ve bunların
+implementasyonunu ayırmak için kullanılmaktadır. Bu yöntem sayesinde sınıf hirarşileri daha
+esnek bir hale getirilebilmektedir, çünkü üstsınıflar bünyelerinde barındırdıkarı soyut metodları bir
+interface sınıfına taşıyarak, altsınıfların istedikleri bir implementasyonu kullanmalarına izin
+vermektedirler
