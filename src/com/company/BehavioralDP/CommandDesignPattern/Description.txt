@@ -1,0 +1,3 @@
+Bir nesne üzerinde bir işleminin nasıl yapıldığını bilmediğimiz ya da kullanılmak istenen nesneyi
+tanımadığımız durumlarda, Command design pattern ile yapılmak istenen işlemi bir nesneye
+dönüştürerek, alıcı nesne tarafından işlemin yerine getirilmesi sağlıyabiliriz.
