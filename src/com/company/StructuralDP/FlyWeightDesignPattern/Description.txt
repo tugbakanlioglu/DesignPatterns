@@ -1,0 +1,3 @@
+Kullanım amacı, benzer nesneleri tekrar tekrar oluşturmak yerine ortak bellek alanlarını kullanarak bellek kullanımı azaltmaktır.
+Uygulama için kullanılan nesne adedini önemli ölçüde düşürmek için flyweight design patter
+kullanılır. Nesne adedinin düşmesi ile performans iyileşir ve daha az hafıza alanı kullanılır.
